@@ -1,0 +1,4 @@
+The purpose of the project is to have survey with specific sample group and turning the survey analysis into text.
+Then, the collected text data was analyzed using RStudio tool and required packages.
+Finally, need to design a Shiny application that shows some business insight from the collected data.
+Survey was done based on Harry Potter Book, asking people "Are they witch/wizard or none?"
